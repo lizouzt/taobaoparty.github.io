@@ -27,14 +27,14 @@
     common styles
 ====================================================*/
 html {
-  color: #303030;
+  color: #404040;
   line-height: 1.75em;
   background: #ebebeb;
   position: relative;
   font-family:  Helvetica, Arial, sans-serif;
 }
 body {
-  color: #303030;
+  color: #404040;
   line-height: 1.75em;
   background: #ebebeb;
   position: relative;
@@ -47,7 +47,7 @@ h4,
 h5,
 h6 {
   font-weight: 400;
-  color: #303030;
+  color: #404040;
 }
 h1 {
   font-size: 1.5em;
@@ -447,7 +447,7 @@ pre {
   text-align: left;
 }
 .post .post-content p.brief {
-  color: #303030;
+  color: #404040;
 }
 .post .post-body {
   margin-top: 15px;
@@ -492,41 +492,41 @@ pre {
 ====================================================*/
 .post-content {
   font: 400 14px/1.62 Helvetica, Arial, sans-serif;
-  color: #303030;
+  color: #404040;
 }
 .post-content h1 {
   font-family: Helvetica, Arial, sans-serif;
-  color: #303030;
+  color: #404040;
   font-size: 1.8em;
   margin: 0.67em 0;
 }
 .post-content h2 {
   font-family: Helvetica, Arial, sans-serif;
-  color: #303030;
+  color: #404040;
   font-size: 1.3em;
   margin: 0.83em 0;
 }
 .post-content h3 {
   font-family: Helvetica, Arial, sans-serif;
-  color: #303030;
+  color: #404040;
   font-size: 1.17em;
   margin: 1em 0;
 }
 .post-content h4 {
   font-family: Helvetica, Arial, sans-serif;
-  color: #303030;
+  color: #404040;
   font-size: 1em;
   margin: 1.6em 0 1em 0;
 }
 .post-content h5 {
   font-family: Helvetica, Arial, sans-serif;
-  color: #303030;
+  color: #404040;
   font-size: 1em;
   margin: 1.6em 0 1em 0;
 }
 .post-content h6 {
   font-family: Helvetica, Arial, sans-serif;
-  color: #303030;
+  color: #404040;
   font-size: 1em;
   margin: 1.6em 0 1em 0;
   font-weight: 500;
@@ -552,19 +552,19 @@ pre {
 }
 .post-content strong {
   font-weight: 700;
-  color: #303030;
+  color: #404040;
 }
 .post-content b {
   font-weight: 700;
-  color: #303030;
+  color: #404040;
 }
 .post-content em {
   font-style: italic;
-  color: #303030;
+  color: #404040;
 }
 .post-content i {
   font-style: italic;
-  color: #303030 ;
+  color: #404040;
 }
 .post-content img {
   max-width: 100%;
