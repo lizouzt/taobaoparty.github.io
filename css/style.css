@@ -312,7 +312,7 @@ pre {
   position: relative;
 }
 .main-navigation .menu li a {
-  color: #303030;
+  color: #404040;
   font-size: 1.1em;
   line-height: 4em;
   display: block;
@@ -350,7 +350,7 @@ pre {
 }
 .main-navigation .menu li ul li a {
   line-height: 2.5em;
-  color: #303030;
+  color: #404040;
 }
 .main-navigation .menu li ul:hover > a {
   color: #e67e22;
@@ -408,7 +408,7 @@ pre {
   margin: 0;
 }
 .post .post-head .post-title a {
-  color: #303030;
+  color: #404040;
   font-size: 1.1em;
 }
 .post .post-head .post-title a:hover {
