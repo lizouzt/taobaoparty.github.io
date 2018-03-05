@@ -312,7 +312,7 @@ pre {
   position: relative;
 }
 .main-navigation .menu li a {
-  color: #404040;
+  color: #333;
   font-size: 1.1em;
   line-height: 4em;
   display: block;
