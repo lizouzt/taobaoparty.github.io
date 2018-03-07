@@ -889,6 +889,9 @@ pre {
 .widget .social a i {
   font-size: 20px;
 }
+.widget .category-list-item a i {
+    font-family: Helvetica, Arial, sans-serif;
+}
 .widget .friends-link a {
   font-family: Helvetica, Arial, sans-serif;
   margin-right: 15px;
@@ -1283,3 +1286,5 @@ pre .javascript .function {
   .carousel-control.right {    
     background-image: none;
 }
+
+
