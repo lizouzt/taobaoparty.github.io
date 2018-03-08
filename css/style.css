@@ -900,6 +900,9 @@ pre {
   position: relative;
   width: 100%;
 }
+.widget .search{
+  background: http://taobaoparty.com/img/searchback.png;
+}
 .widget #search-form .search-form-submit {
   float: right;
   width: 25%;
