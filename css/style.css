@@ -316,7 +316,7 @@ pre {
   font-size: 1.1em;
   line-height: 4em;
   display: block;
-  padding: 0 21px;
+  padding: 0 16px;
 }
 .main-navigation .menu li:hover > a {
   color: #e67e22;
