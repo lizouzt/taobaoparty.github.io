@@ -998,7 +998,7 @@ pre {
    copyright
 ====================================================*/
 .copyright {
-  background: #ff8000;
+  background: -webkit-linear-gradient(left,#ff8000 0,#ff5000 100%);
   font-size: 14px;
   text-align: center;
   color: #fff;
