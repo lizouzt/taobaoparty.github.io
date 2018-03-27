@@ -90,7 +90,7 @@ a img {
   border-radius: 2px;
 }
 .btn-default {
-  border: 1px solid #ff6000;
+  border: 1px solid #ff8000;
   background: -webkit-linear-gradient(left,#ff8000 0,#ff5000 100%);
   color: #fff;
   -webkit-transition: all 0.2s ease-in-out;
@@ -773,7 +773,7 @@ pre {
   border-radius: 2px;
 }
 .pagination .current {
-  background: -webkit-linear-gradient(left,#ff5000 0,#ff6000 100%);
+  background: -webkit-linear-gradient(left,#ff5000 0,#ff8000 100%);
   color: #fff;
 }
 /*====================================================
@@ -907,7 +907,7 @@ pre {
   background: -webkit-linear-gradient(left,#ff8000 0,#ff5000 100%);
   color: #fff;
   border-radius: 0 4px 4px 0;
-  border: 1px solid #ff6000;
+  border: 1px solid #ff8000;
 }
 .widget #search-form #result-mask {
   position: fixed;
@@ -1004,7 +1004,7 @@ pre {
   color: #fff;
   padding-top: 20px;
   padding-bottom: 20px;
-  border-top: 1px solid #ff6000;
+  border-top: 1px solid #ff8000;
 }
 .copyright span {
   margin: 0 .5em;
