@@ -117,17 +117,17 @@ input[type="search"] {
   padding: 7px 11px 7px 7px;
   border-radius: 4px 0 0 4px;
   margin-bottom: 1em;
-  border: 1px solid #ebebeb;
+  border: 1px solid #ff8000;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
 input[type="search"]:focus {
-  border: 1px solid #ff6000;
+  border: 1px solid #ff8000;
   outline: none;
 }
 input[type="text"] {
   padding: 7px 7px;
-  border: 1px solid #ebebeb;
+  border: 1px solid #ff8000;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -135,12 +135,12 @@ input[type="text"] {
   transition: all 0.2s;
 }
 input[type="text"]:focus {
-  border: 1px solid #ff6000;
+  border: 1px solid #ff8000;
   outline: none;
 }
 input[type="url"] {
   padding: 7px 7px;
-  border: 1px solid #ebebeb;
+  border: 1px solid #ff8000;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -148,12 +148,12 @@ input[type="url"] {
   transition: all 0.2s;
 }
 input[type="url"]:focus {
-  border: 1px solid #ff6000;
+  border: 1px solid #ff8000;
   outline: none;
 }
 input[type="email"] {
   padding: 7px 7px;
-  border: 1px solid #ebebeb;
+  border: 1px solid #ff8000;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -161,7 +161,7 @@ input[type="email"] {
   transition: all 0.2s;
 }
 input[type="email"]:focus {
-  border: 1px solid #ff6000;
+  border: 1px solid #ff8000;
   outline: none;
 }
 textarea {
