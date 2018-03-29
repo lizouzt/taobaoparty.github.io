@@ -91,7 +91,7 @@ a img {
 }
 .btn-default {
   border: 1px solid #ff8000;
-  background: -webkit-linear-gradient(left,#ff8000 0,#ff5000 100%);
+  background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
   color: #fff;
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -241,7 +241,7 @@ pre {
   line-height: 0;
   height: 180px;
   width: 100%;
-  background: -webkit-linear-gradient(left,#ff5000 0,#ff8000 100%);
+  background: linear-gradient(to right,#ff5000 0,#ff8000 100%);
   background-repeat: repeat;
   background-attachment: fixed;
 }
@@ -773,7 +773,7 @@ pre {
   border-radius: 2px;
 }
 .pagination .current {
-  background: -webkit-linear-gradient(left,#ff5000 0,#ff8000 100%);
+  background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
   color: #fff;
 }
 /*====================================================
@@ -904,7 +904,7 @@ pre {
   float: right;
   width: 25%;
   height: 32px;
-  background: linear-gradient(to right,#ff8000 0,#ff5000);
+  background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
   color: #fff;
   border-radius: 0 4px 4px 0;
   border: 1px solid #ff8000;
@@ -998,7 +998,7 @@ pre {
    copyright
 ====================================================*/
 .copyright {
-  background: -webkit-linear-gradient(left,#ff8000 0,#ff5000 100%);
+  background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
   font-size: 14px;
   text-align: center;
   color: #fff;
