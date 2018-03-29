@@ -97,16 +97,16 @@ a img {
   transition: all 0.2s ease-in-out;
 }
 .btn-default:hover {
-  border: 1px solid #303030;
-  background: #303030;
+  border: 1px solid #ff8000;
+  background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
   color: #fff;
 }
 .btn-default:focus {
   outline: none;
 }
 .btn-default[disabled] {
-  border: 1px solid #303030;
-  background: #303030;
+  border: 1px solid #ff8000;
+  background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
   color: #fff;
 }
 input[type="search"] {
@@ -748,7 +748,7 @@ pre {
   border-radius: 2px;
 }
 .pagination a:hover {
-  background: -webkit-linear-gradient(left,#ff5000 0,#ff6000 100%);
+  background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
   color: #fff;
   text-decoration: none;
 }
@@ -1019,7 +1019,7 @@ pre {
   position: fixed;
   right: 30px;
   bottom: 30px;
-  background-color: #959595;
+  background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
   color: #fff;
   text-align: center;
   -webkit-border-radius: 2px;
@@ -1028,7 +1028,7 @@ pre {
   z-index: 1;
 }
 #back-to-top:hover {
-  background: #ff6000;
+  background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
