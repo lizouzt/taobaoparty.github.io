@@ -904,10 +904,10 @@ pre {
   float: right;
   width: 25%;
   height: 32px;
-  background: -webkit-linear-gradient(left,#ff8000 0,#ff5000 100%);
+  background: linear-gradient(to right,#ff8000 0,#ff5000);
   color: #fff;
   border-radius: 0 4px 4px 0;
-  border: 0px solid #ff8000;
+  border: 1px solid #ff8000;
 }
 .widget #search-form #result-mask {
   position: fixed;
