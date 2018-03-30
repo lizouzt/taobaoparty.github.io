@@ -879,7 +879,7 @@ pre {
   margin-bottom: 10px;
 }
 .widget .social a:hover {
-  background: #ff6000;
+  background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
@@ -1019,7 +1019,7 @@ pre {
   position: fixed;
   right: 30px;
   bottom: 30px;
-  background: #333;
+  background: #808080;
   color: #fff;
   text-align: center;
   -webkit-border-radius: 2px;
