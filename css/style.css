@@ -1019,7 +1019,7 @@ pre {
   position: fixed;
   right: 30px;
   bottom: 30px;
-  background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
+  background: #333;
   color: #fff;
   text-align: center;
   -webkit-border-radius: 2px;
