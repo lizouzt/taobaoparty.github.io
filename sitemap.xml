@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://taobaoparty.com/delivery/</loc>
+    
+    <lastmod>2018-03-31T17:25:24.130Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://taobaoparty.com/yupoo/</loc>
+    
+    <lastmod>2018-03-31T17:24:19.099Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://taobaoparty.com/faq/</loc>
+    
+    <lastmod>2018-03-31T17:23:49.922Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://taobaoparty.com/payment/</loc>
+    
+    <lastmod>2018-03-31T17:23:24.051Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://taobaoparty.com/worldcup/</loc>
     
-    <lastmod>2018-03-31T12:10:58.250Z</lastmod>
+    <lastmod>2018-03-31T12:22:02.760Z</lastmod>
     
   </url>
   
@@ -40,13 +68,6 @@
     <loc>http://taobaoparty.com/bestsellingjan/</loc>
     
     <lastmod>2018-03-28T12:30:04.837Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://taobaoparty.com/yupoo/</loc>
-    
-    <lastmod>2018-03-28T12:24:58.477Z</lastmod>
     
   </url>
   
@@ -128,13 +149,6 @@
   </url>
   
   <url>
-    <loc>http://taobaoparty.com/payment/</loc>
-    
-    <lastmod>2018-03-28T11:58:47.247Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://taobaoparty.com/orderguide/</loc>
     
     <lastmod>2018-03-28T11:58:47.224Z</lastmod>
@@ -184,16 +198,9 @@
   </url>
   
   <url>
-    <loc>http://taobaoparty.com/faq/</loc>
+    <loc>http://taobaoparty.com/terms/</loc>
     
-    <lastmod>2018-03-28T11:58:47.081Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://taobaoparty.com/delivery/</loc>
-    
-    <lastmod>2018-03-28T11:58:47.063Z</lastmod>
+    <lastmod>2018-03-28T11:56:00.246Z</lastmod>
     
   </url>
   
