@@ -797,7 +797,7 @@ pre {
 }
 .sidebar .widget {
   background: #fff;
-  padding: 16px 25px;
+  padding: 20px;
 }
 .sidebar .widget ul {
   padding: 0;
@@ -858,8 +858,8 @@ pre {
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
-  margin-right: 10px;
-  margin-bottom: 10px;
+  margin-right: 12px;
+  margin-bottom: 12px;
 }
 .widget .social a:hover {
   background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
@@ -1263,3 +1263,13 @@ pre .javascript .function {
     margin-bottom: 10px;
   }
 }
+  .introduce {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 15px;
+    position: relative;
+    overflow: hidden;
+  }
+  .introduce-title {
+    margin-top: 10px;
+  }
