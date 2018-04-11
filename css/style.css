@@ -85,9 +85,9 @@ a img {
 }
 .btn {
   padding: 7px 14px;
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  border-radius: 2px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
 }
 .btn-default {
   border: 1px solid #ff8000;
@@ -128,9 +128,9 @@ input[type="search"]:focus {
 input[type="text"] {
   padding: 7px 7px;
   border: 2px solid #ff8000;
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  border-radius: 2px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
@@ -141,9 +141,9 @@ input[type="text"]:focus {
 input[type="url"] {
   padding: 7px 7px;
   border: 2px solid #ff8000;
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  border-radius: 2px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
@@ -154,9 +154,9 @@ input[type="url"]:focus {
 input[type="email"] {
   padding: 7px 7px;
   border: 2px solid #ff8000;
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  border-radius: 2px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
@@ -167,9 +167,9 @@ input[type="email"]:focus {
 textarea {
   padding: 7px 7px;
   border: 1px solid #ebebeb;
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  border-radius: 2px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
@@ -219,9 +219,9 @@ pre {
   background-color: #ff6000;
   top: -1px;
   left: 0;
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  border-radius: 2px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
   -webkit-transition: width 1s ease;
   transition: width 1s ease;
   z-index: 99;
@@ -655,9 +655,9 @@ pre {
   background-color: #f9f9f9;
   padding: 1px 2px;
   border: 1px solid #dadada;
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  border-radius: 2px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
   font-family: Helvetica, Arial, monospace;
   word-wrap: break-word;
 }
@@ -667,9 +667,9 @@ pre {
   background-color: #f9f9f9;
   padding: 1px 2px;
   border: 1px solid #dadada;
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  border-radius: 2px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
   font-family: Helvetica, Arial, monospace;
   word-wrap: break-word;
 }
@@ -743,9 +743,9 @@ pre {
   color: #666666;
   text-align: center;
   display: inline-block;
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  border-radius: 2px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
 }
 .pagination a:hover {
   background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
@@ -768,9 +768,9 @@ pre {
   display: inline-block;
   line-height: 36px;
   padding: 0 14px;
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  border-radius: 2px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
 }
 .pagination .current {
   background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
@@ -857,6 +857,7 @@ pre {
   margin: 0 7px 7px 0;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
+  border-radius: 4px;
 }
 .widget .tag-cloud a:hover {
   color: #fff;
@@ -872,9 +873,9 @@ pre {
   line-height: 45px;
   color: #fff;
   background: #808080;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
   margin-right: 10px;
   margin-bottom: 10px;
 }
@@ -1022,9 +1023,9 @@ pre {
   background: #808080;
   color: #fff;
   text-align: center;
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  border-radius: 2px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
   z-index: 1;
 }
 #back-to-top:hover {
@@ -1057,9 +1058,9 @@ code {
   white-space: nowrap;
   color: #666666;
   background: #eee;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
 }
 pre code {
   padding: 0;
