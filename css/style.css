@@ -847,24 +847,6 @@ pre {
   left: 0;
   bottom: -1px;
 }
-.widget .tag-cloud a {
-  border: 1px solid #ebebeb;
-  padding: 2px 7px;
-  color: #959595;
-  font-size: 1em!important;
-  line-height: 1.5em;
-  display: inline-block;
-  margin: 0 7px 7px 0;
-  -webkit-transition: all 0.2s;
-  transition: all 0.2s;
-  border-radius: 4px;
-}
-.widget .tag-cloud a:hover {
-  color: #fff;
-  background: #ff6000;
-  border: 1px solid #ff6000;
-  text-decoration: none;
-}
 .widget .social a {
   display: inline-block;
   text-align: center;
