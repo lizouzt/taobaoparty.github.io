@@ -451,6 +451,9 @@ pre {
 .post .post-content p.brief {
   color: #333;
 }
+.post-content a {
+  color: #ff6000;
+}
 .post .post-body {
   margin-top: 15px;
   padding: 25px 0;
