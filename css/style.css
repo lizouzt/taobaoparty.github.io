@@ -116,7 +116,7 @@ input[type="search"] {
   height: 34px;
   line-height: 16px;
   padding: 7px 11px 7px 7px;
-  border-radius: 0px;
+  border-radius: 20px 0 0 20px;
   margin-bottom: 1em;
   border: 2px solid #ff8000;
   -webkit-transition: all 0.2s;
@@ -892,7 +892,7 @@ pre {
   height: 34px;
   background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
   color: #fff;
-  border-radius: 0;
+  border-radius: 0 20px 20px 0;
   border: 0px solid #ff8000;
 }
 .widget #search-form #result-mask {
