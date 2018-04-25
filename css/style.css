@@ -86,9 +86,9 @@ a img {
 }
 .btn {
   padding: 7px 14px;
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
-  border-radius: 20px;
+  -webkit-border-radius: 18px;
+  -moz-border-radius: 18px;
+  border-radius: 18px;
 }
 .btn-default {
   border: 1px solid #fff;
@@ -116,7 +116,7 @@ input[type="search"] {
   height: 34px;
   line-height: 16px;
   padding: 7px 11px 7px 7px;
-  border-radius: 20px 0 0 20px;
+  border-radius: 18px 0 0 18px;
   margin-bottom: 1em;
   border: 2px solid #ff8000;
   -webkit-transition: all 0.2s;
@@ -774,9 +774,9 @@ pre {
   display: inline-block;
   line-height: 36px;
   padding: 0 14px;
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
-  border-radius: 20px;
+  -webkit-border-radius: 18px;
+  -moz-border-radius: 18px;
+  border-radius: 18px;
 }
 .pagination .current {
   background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
@@ -892,7 +892,7 @@ pre {
   height: 34px;
   background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
   color: #fff;
-  border-radius: 0 20px 20px 0;
+  border-radius: 0 18px 18px 0;
   border: 0px solid #ff8000;
 }
 .widget #search-form #result-mask {
@@ -1009,9 +1009,9 @@ pre {
   background: #808080;
   color: #fff;
   text-align: center;
-  -webkit-border-radius: 0px;
-  -moz-border-radius: 0px;
-  border-radius: 0px;
+  -webkit-border-radius: 18px;
+  -moz-border-radius: 18px;
+  border-radius: 18px;
   z-index: 1;
 }
 #back-to-top:hover {
@@ -1020,9 +1020,9 @@ pre {
   transition: all 0.2s;
 }
 #back-to-top i {
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
+  width: 36px;
+  height: 36px;
+  line-height: 35px;
 }
 /*====================================================
     highlight
