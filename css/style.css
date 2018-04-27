@@ -299,9 +299,9 @@ pre {
 .main-navigation {
   text-align: center;
   background: #fff;
-  border-top: 1px solid #fff;
+  border-top: none;
   margin-bottom: 20px;
-  border-bottom: 1px solid #fff;
+  border-bottom: none;
 }
 .main-navigation .menu {
   padding: 0;
@@ -991,7 +991,7 @@ pre {
   color: #fff;
   padding-top: 20px;
   padding-bottom: 20px;
-  border-top: 1px solid #f3f3f3;
+  border-top: none;
 }
 .copyright span {
   margin: 0 .5em;
