@@ -315,6 +315,7 @@ pre {
 .main-navigation .menu li a {
   color: #444;
   font-size: 1.1em;
+  font-weight: 700;
   line-height: 60px;
   display: block;
   padding: 0 16px;
@@ -838,6 +839,7 @@ pre {
   margin-bottom: 20px;
 }
 .widget .title {
+  font-weight: 700;
   margin-top: 0;
   padding-bottom: 7px;
   border-bottom: 1px solid #ebebeb;
