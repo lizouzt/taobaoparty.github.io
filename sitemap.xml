@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://taobaoparty.com/delivery/</loc>
+    
+    <lastmod>2018-06-08T01:28:05.625Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://taobaoparty.com/yupoo/</loc>
     
     <lastmod>2018-05-31T05:32:24.625Z</lastmod>
@@ -82,13 +89,6 @@
     <loc>http://taobaoparty.com/faq/</loc>
     
     <lastmod>2018-04-11T14:56:11.253Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://taobaoparty.com/delivery/</loc>
-    
-    <lastmod>2018-04-11T14:55:34.261Z</lastmod>
     
   </url>
   
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>http://taobaoparty.com/feelist/</loc>
+    <loc>http://taobaoparty.com/shippingfee/</loc>
     
     <lastmod>2018-04-02T15:46:30.666Z</lastmod>
     
