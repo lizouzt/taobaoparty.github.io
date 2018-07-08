@@ -1295,3 +1295,44 @@ pre .javascript .function {
   .post-footer {
     color: #959595;
   }
+  .sendmessage {
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 20px;
+    position: relative;
+    overflow: hidden;
+  }
+  input[type="yourname"] {
+  box-sizing: border-box;
+  width: 50%;
+  height: 34px;
+  line-height: 16px;
+  padding: 10px;
+  border-radius: 0px;
+  margin-bottom: 1em;
+  border: 1px solid #ebebeb;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  }
+  input[type="youremail"] {
+  box-sizing: border-box;
+  width: 50%;
+  height: 34px;
+  line-height: 16px;
+  padding: 10px;
+  border-radius: 0px;
+  margin-bottom: 1em;
+  border: 1px solid #ebebeb;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  }
+  textarea {
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ebebeb;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
