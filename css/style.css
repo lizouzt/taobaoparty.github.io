@@ -1297,7 +1297,7 @@ pre .javascript .function {
   }
   .sendmessage {
     background-color: #fff;
-    padding: 10px;
+    padding: 20px;
     margin-bottom: 20px;
     position: relative;
     overflow: hidden;
@@ -1314,25 +1314,67 @@ pre .javascript .function {
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
   }
+  input[type="yourname"]:focus {
+  border: 1px solid #ff8000;
+  outline: none;
+  }
   input[type="youremail"] {
   box-sizing: border-box;
+  padding: 10px;
   width: 50%;
   height: 34px;
   line-height: 16px;
-  padding: 10px;
   border-radius: 0px;
   margin-bottom: 1em;
   border: 1px solid #ebebeb;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
   }
+  input[type="youremail"]:focus {
+  border: 1px solid #ff8000;
+  outline: none;
+  }
   textarea {
-    padding: 10px;
     width: 100%;
     border: 1px solid #ebebeb;
+    padding: 10px;
     -webkit-border-radius: 0px;
     -moz-border-radius: 0px;
     border-radius: 0px;
     -webkit-transition: all 0.2s;
     transition: all 0.2s;
+  }
+  textarea:focus {
+  border: 1px solid #ff8000;
+  outline: none;
+  }
+  button {
+  font-family: Helvetica, Arial, sans-serif;
+  padding: 7px 14px;
+  -webkit-border-radius: 18px;
+  -moz-border-radius: 18px;
+  border-radius: 18px;
+}
+  button {
+  width: 100px;
+  border: 0px solid #fff;
+  background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
+  color: #fff;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+  button:hover {
+  width: 100px;
+  border: 0px solid #fff;
+  background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
+  color: #fff;
+}
+  button:focus {
+  outline: none;
+}
+  button[disabled] {
+  border: 1px solid #fff;
+  background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
+  color: #fff;
+}
 }
