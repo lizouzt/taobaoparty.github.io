@@ -126,19 +126,6 @@ input[type="search"]:focus {
   border: 2px solid #ff8000;
   outline: none;
 }
-input[type="text"] {
-  padding: 7px 7px;
-  border: 2px solid #ff8000;
-  -webkit-border-radius: 0px;
-  -moz-border-radius: 0px;
-  border-radius: 0px;
-  -webkit-transition: all 0.2s;
-  transition: all 0.2s;
-}
-input[type="text"]:focus {
-  border: 2px solid #ff8000;
-  outline: none;
-}
 input[type="url"] {
   padding: 7px 7px;
   border: 2px solid #ff8000;
@@ -150,32 +137,6 @@ input[type="url"] {
 }
 input[type="url"]:focus {
   border: 2px solid #ff8000;
-  outline: none;
-}
-input[type="email"] {
-  padding: 7px 7px;
-  border: 2px solid #ff8000;
-  -webkit-border-radius: 0px;
-  -moz-border-radius: 0px;
-  border-radius: 0px;
-  -webkit-transition: all 0.2s;
-  transition: all 0.2s;
-}
-input[type="email"]:focus {
-  border: 2px solid #ff8000;
-  outline: none;
-}
-textarea {
-  padding: 7px 7px;
-  border: 1px solid #ebebeb;
-  -webkit-border-radius: 0px;
-  -moz-border-radius: 0px;
-  border-radius: 0px;
-  -webkit-transition: all 0.2s;
-  transition: all 0.2s;
-}
-textarea:focus {
-  border: 1px solid #ff6000;
   outline: none;
 }
 blockquote {
@@ -1302,7 +1263,7 @@ pre .javascript .function {
     position: relative;
     overflow: hidden;
   }
-  input[type="yourname"] {
+  input[type="text"] {
   box-sizing: border-box;
   width: 50%;
   height: 34px;
@@ -1314,11 +1275,11 @@ pre .javascript .function {
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
   }
-  input[type="yourname"]:focus {
+  input[type="text"]:focus {
   border: 1px solid #ff8000;
   outline: none;
   }
-  input[type="youremail"] {
+  input[type="email"] {
   box-sizing: border-box;
   padding: 10px;
   width: 50%;
@@ -1330,7 +1291,7 @@ pre .javascript .function {
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
   }
-  input[type="youremail"]:focus {
+  input[type="email"]:focus {
   border: 1px solid #ff8000;
   outline: none;
   }
@@ -1376,5 +1337,4 @@ pre .javascript .function {
   border: 1px solid #fff;
   background: linear-gradient(to right,#ff8000 0,#ff5000 100%);
   color: #fff;
-}
 }
